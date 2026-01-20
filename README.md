@@ -1,1 +1,2 @@
-This is Stock Optimisation project
+This is Stock Optimisation 
+Author - Dazminisha
